@@ -1,5 +1,5 @@
 ## Hi there 👋
-[Portfolio: cover](https://jiho-yang.github.io/cover)
+[Portfolio](https://jiho-yang.github.io/cover)
 
 ----------
 
