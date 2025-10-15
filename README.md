@@ -9,6 +9,9 @@
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black)
 
+### 📊 GitHub Stats
+![Jyo's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiho-yang&show_icons=true&theme=tokyonight)
+
 <!--
 **jiho-yang/jiho-yang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
