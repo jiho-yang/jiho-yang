@@ -1,4 +1,7 @@
 ## Hi there 👋
+[Portfolio: cover](https://jiho-yang.github.io/cover)
+
+----------
 
 ### 💻 Tech Stack
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
@@ -9,8 +12,11 @@
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black)
 
+----------
+
 ### 📊 GitHub Stats
 ![Jyo's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiho-yang&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiho-yang&layout=compact&theme=tokyonight)
 
 <!--
 **jiho-yang/jiho-yang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
