@@ -1,4 +1,4 @@
-#### Hi, I'm Jiho 👋
+<sub>Hi, I'm Jiho 👋</sub>
 
 
 <!--
